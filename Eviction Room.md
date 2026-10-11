@@ -10,9 +10,8 @@ The fourth question asks which scripting interpreters could have been used for t
 
 The fifth question tells us that obfuscated scripts have changed the registry and asks us to fin which registry keys should we track monitor persistence attempts by the attackers.
 
-due to how tryhack rules work we aren't allowed to post exact answers and due to the nature of this room every question is answered by referring to ATT&CK Navigator matrix so instead of repeating every question on here as i see no value in doing so I will simple post a ss of the completed room
+due to how tryhack rules work we aren't allowed to post exact answers and due to the nature of this room every question is answered by referring to ATT&CK Navigator matrix so instead of repeating every question on here. You can confirm the compleition of this room from my THM profile
 
 
-![](images/Pasted%20image%2020261011151131.png)
-
+<img width="1121" height="448" alt="Pasted image 20261011151131" src="https://github.com/user-attachments/assets/f8e0ed86-8c93-46a2-b2b0-38c6beffcf9c" />
 
