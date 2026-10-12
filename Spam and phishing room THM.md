@@ -34,4 +34,4 @@ Thirdly we are required to decode the base 64 using either PDF converter or Cybe
 ![](Images/Pasted%20image%2020261012125352.png)
 The next task goes through the types of phishing emails and a segment on indicators we should look out for however that is ridiculously basic so I do not plan to document that here. Afterwards there is a segment that goes over how suspicious links should be defanged so that they do not work if you accidentally click on them which works by replacing special characters such as @ by alternating ones.
 Then we are asked to perform a analysis on email3 similar to the ones we performed before however we are asked to defang the x-originating ip which we did using cyber chef.
-![](Pasted%20image%2020261012130338.png)
+![](Images/Pasted%20image%2020261012130338.png)
